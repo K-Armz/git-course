@@ -1,2 +1,2 @@
 # git-course
-# This is a git course from Ben
+ This is a git course from Ben
